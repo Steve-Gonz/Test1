@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI project 4</string>
+    <string name="First">First Name</string>
+    <string name="Last">Last Name</string>
+    <string name="Phone">Phone Number</string>
+    <string name="Email">Email Address</string>
+    <string name="butt">Add Contact</string>
+    <string name="butt2">Clear Fields</string>
+    <string name="descrip">contacts logo</string>
+    <string name="disp">The following contact has been added:</string>
+</resources>
